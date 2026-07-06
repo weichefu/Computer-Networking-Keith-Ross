@@ -47,21 +47,21 @@ rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8#rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江4K.png" group-title="卫视频道",浙江4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024372223684608826694195
-#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川4K.png" group-title="卫视频道",四川4K
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川4K.png" group-title="卫视频道",四川4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024782644719616300513999
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南4K.png" group-title="卫视频道",湖南4K
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南4K.png" group-title="卫视频道",湖南4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024675055546368175052165
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳4K.png" group-title="卫视频道",深圳4K
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳4K.png" group-title="卫视频道",深圳4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1134934009353457664504975325
-#EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京4k.png" group-title="卫视频道",北京4k
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京4k.png" group-title="卫视频道",北京4k
 rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方4K.png" group-title="卫视频道",东方4K
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方4K.png" group-title="卫视频道",东方4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161023780712493056528252825
-#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东4K.png" group-title="卫视频道",山东4K
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东4K.png" group-title="卫视频道",山东4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024518465400832464405079
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏4K.png" group-title="卫视频道",江苏4K
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏4K.png" group-title="卫视频道",江苏4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024061978324992408004965
-#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东4K.png" group-title="卫视频道",广东4K
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东4K.png" group-title="卫视频道",广东4K
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230606/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230509/1.m3u8
