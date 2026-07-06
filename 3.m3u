@@ -43,6 +43,10 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230447/1.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰中文.png" group-title="卫视频道",凤凰中文
+rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江4K.png" group-title="卫视频道",浙江4K
 rtsp://111.48.34.138:1554/170000004112/HBGD1161024372223684608826694195
 #EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川4K.png" group-title="卫视频道",四川4K
